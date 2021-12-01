@@ -27,5 +27,11 @@ pip install -r requirements.txt
 
 To install Elasticsearch locally, please take a look at this [Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html)
 
+The [siamese_bert_pipeline notebook](https://github.com/JThanat/Neural-Indexing-EntityNormalization/blob/main/experiments/siamese_bert_pipeline.ipynb) describes how to train the neural similarity model and set up the annoy fast KNN system
+
+The [indexing_with_siamese_biobert notebook](https://github.com/JThanat/Neural-Indexing-EntityNormalization/blob/main/experiments/indexing_with_siamese_biobert.ipynb) describes how to test the neural similarity model and compare with a plain elastic search model, elastic search with only our neural embeddings, and a combination of fuzzy search and our embeddings.
+
+
+
 ### License
-TBD
+MIT
