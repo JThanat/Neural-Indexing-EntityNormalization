@@ -6,7 +6,10 @@ This repository is an example work of how can we do Entity Normalization with Se
 
 ### Acknowledgement
 This repository is built on top of the following amazing works:
-- NSEEN [Link](https://arxiv.org/abs/1811.07514)
+- NSEEN [Link](https://arxiv.org/abs/1811.07514): 
+  This paper describes the core approach for using neural similarity for entity normalization: 
+  Shobeir Fakhraei, Joel Mathew, and Jose Luis Ambite. NSEEN: Neural Semantic Embedding for Entity Normalization. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD-2019),Würzburg, Germany. 
+  In this repository, we replaced the original BiLSTM with Transformer-based language models.  
 - Sentence Transformer [Link](https://github.com/UKPLab/sentence-transformers)
 - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks ([EMNLP 2019](https://arxiv.org/abs/1908.10084))
 - ElasticSearch [Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html)
