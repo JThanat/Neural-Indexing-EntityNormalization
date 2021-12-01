@@ -6,6 +6,7 @@ This repository is an example work of how can we do Entity Normalization with Se
 
 ### Acknowledgement
 This repository is built on top of the following amazing works:
+- NSEEN [Link](https://arxiv.org/abs/1811.07514)
 - Sentence Transformer [Link](https://github.com/UKPLab/sentence-transformers)
 - Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks ([EMNLP 2019](https://arxiv.org/abs/1908.10084))
 - ElasticSearch [Link](https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html)
