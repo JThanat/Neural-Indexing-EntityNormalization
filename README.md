@@ -4,7 +4,7 @@ This repository is an example work of how can we do Entity Normalization with Se
 
 We follow the core approach for using neural similarity for entity normalization describe in our previous work: 
 
-  Shobeir Fakhraei, Joel Mathew, and Jose Luis Ambite. [NSEEN: Neural Semantic Embedding for Entity Normalization.](https://arxiv.org/abs/1811.07514) European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD-2019),Würzburg, Germany. 
+  Shobeir Fakhraei, Joel Mathew, and Jose Luis Ambite. [NSEEN: Neural Semantic Embedding for Entity Normalization.](https://arxiv.org/abs/1811.07514) European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), Würzburg, Germany, 2019. 
   
 In this repository, we replaced the original BiLSTM with Transformer-based language models.  
 
